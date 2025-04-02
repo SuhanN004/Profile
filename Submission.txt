@@ -1,8 +1,22 @@
-We completed creating git repository 
-Hosted our portfolio from website using Render
-Render
-> Give the profile name 
-> Add build command -> pip install fastapi "uvicorn[standard]"
->Add start command
+Automation and API Testing Progress
+Session 1: Automation Testing using Selenium
+Learned to use CSS XPath Checker.
 
-> Installed selenium
+Opened Chrome using Selenium and navigated to selenium-tutorial-main.
+
+Tested different CSS elements.
+
+Session 2: API Testing using Postman & Python Requests
+Learned API testing using Postman:
+
+GET request
+
+POST request
+
+Practiced API testing using Python Requests:
+
+Cloned Cars_API repository.
+
+Tested GET request.
+
+Tested session handling.
